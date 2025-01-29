@@ -1,0 +1,8 @@
+flask
+pytesseract
+opencv-python-headless
+pandas
+openpyxl
+spacy
+pdf2image
+werkzeug
